@@ -1,2 +1,0 @@
-root: C:\Source\Ugent\resume\resume\nvm_node
-path: C:\Program Files\nodejs
